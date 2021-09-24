@@ -1,2 +1,3 @@
 # Chat
 Chat implementation in Qt.
+In progress...
